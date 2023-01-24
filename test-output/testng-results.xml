@@ -1,0 +1,64 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-24T13:26:42 PST" name="Default suite" finished-at="2023-01-24T13:27:07 PST" duration-ms="25083">
+    <groups>
+      <group name="RegressionSuite">
+        <method signature="Demojava.CreateNewOrgwithIndustryTest()[pri:0, instance:Demojava@564fabc8]" name="CreateNewOrgwithIndustryTest" class="Demojava"/>
+      </group> <!-- RegressionSuite -->
+    </groups>
+    <test started-at="2023-01-24T13:26:42 PST" name="Default test" finished-at="2023-01-24T13:27:07 PST" duration-ms="25083">
+      <class name="Demojava">
+        <test-method is-config="true" signature="bsconfig()[pri:0, instance:Demojava@564fabc8]" started-at="2023-01-24T13:26:42 PST" name="bsconfig" finished-at="2023-01-24T13:26:42 PST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bsconfig -->
+        <test-method is-config="true" signature="bcconfig()[pri:0, instance:Demojava@564fabc8]" started-at="2023-01-24T13:26:42 PST" name="bcconfig" finished-at="2023-01-24T13:26:46 PST" duration-ms="4264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bcconfig -->
+        <test-method is-config="true" signature="bmconfig()[pri:0, instance:Demojava@564fabc8]" started-at="2023-01-24T13:26:46 PST" name="bmconfig" finished-at="2023-01-24T13:26:51 PST" duration-ms="4897" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmconfig -->
+        <test-method signature="CreateNewOrgwithIndustryTest()[pri:0, instance:Demojava@564fabc8]" started-at="2023-01-24T13:26:51 PST" name="CreateNewOrgwithIndustryTest" finished-at="2023-01-24T13:27:04 PST" duration-ms="12441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateNewOrgwithIndustryTest -->
+        <test-method is-config="true" signature="amconfig()[pri:0, instance:Demojava@564fabc8]" started-at="2023-01-24T13:27:04 PST" name="amconfig" finished-at="2023-01-24T13:27:06 PST" duration-ms="2763" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amconfig -->
+        <test-method is-config="true" signature="acconfig()[pri:0, instance:Demojava@564fabc8]" started-at="2023-01-24T13:27:06 PST" name="acconfig" finished-at="2023-01-24T13:27:07 PST" duration-ms="274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acconfig -->
+        <test-method is-config="true" signature="asconfig()[pri:0, instance:Demojava@564fabc8]" started-at="2023-01-24T13:27:07 PST" name="asconfig" finished-at="2023-01-24T13:27:07 PST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- asconfig -->
+      </class> <!-- Demojava -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-16T21:45:57 PST" name="Default suite" finished-at="2023-01-16T21:45:57 PST" duration-ms="76">
+    <groups>
+    </groups>
+    <test started-at="2023-01-16T21:45:57 PST" name="Default test" finished-at="2023-01-16T21:45:57 PST" duration-ms="76">
+      <class name="Testng.DummyProject">
+        <test-method signature="test01()[pri:0, instance:Testng.DummyProject@12b0404f]" started-at="2023-01-16T21:45:57 PST" name="test01" finished-at="2023-01-16T21:45:57 PST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01 -->
+      </class> <!-- Testng.DummyProject -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
+>>>>>>> branch 'master' of https://github.com/shilpa12357/WCSM23-GITPRACTISE.git

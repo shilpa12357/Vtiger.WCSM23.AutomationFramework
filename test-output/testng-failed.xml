@@ -1,0 +1,38 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="vTiger.Organizations.TestScripts.CreateOrgWithMember">
+        <methods>
+          <include name="amconfig"/>
+          <include name="createOrgWIthMembderTest"/>
+          <include name="bmconfig"/>
+          <include name="bsconfig"/>
+          <include name="acconfig"/>
+          <include name="asconfig"/>
+          <include name="bcconfig"/>
+        </methods>
+      </class> <!-- vTiger.Organizations.TestScripts.CreateOrgWithMember -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="password" value="manager"/>
+  <parameter name="url" value="https://demo.actitime.com/login.do"/>
+  <parameter name="username" value="admin"/>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="Testng.Testing1">
+        <methods>
+          <include name="demo" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- Testng.Testing1 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
+>>>>>>> branch 'master' of https://github.com/shilpa12357/WCSM23-GITPRACTISE.git
