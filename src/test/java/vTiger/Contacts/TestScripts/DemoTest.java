@@ -18,6 +18,7 @@ public class DemoTest extends BaseClass {
 		System.out.println("sample");
 		Thread.sleep(5000);
 		Assert.fail();
+	
 	}
 	
 

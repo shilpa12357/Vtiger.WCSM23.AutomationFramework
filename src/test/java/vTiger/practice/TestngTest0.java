@@ -8,6 +8,7 @@ public class TestngTest0 {
 	public void demoTest0() {
 		Reporter.log("hello java", true);
 		Reporter.log("hello selenium", false);
+		System.out.println("hii");
 
 	}
 
